@@ -1,0 +1,33 @@
+p {
+    /* text-align: right; */
+    text-align: center;
+}
+h1 {
+    text-align: start;
+    text-decoration:blue dotted  underline;
+
+}
+a {
+    text-decoration: none;
+}
+#h1 {
+    font-weight: normal;
+}
+#h2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#h3 {
+    font-weight: bolder;
+}
+
+#h4 {
+    font-weight: 250;
+}
+#one {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#two {
+    font-family: fantasy;
+}
