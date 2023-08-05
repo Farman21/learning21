@@ -1,0 +1,28 @@
+div {
+    /* background-color: pink;
+    display: inline; */
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+    display: inline-block;
+    /* background-color: rgba(255,0,0,0.5); */
+}
+#box1 {
+    background-color:rgba(0,0,255,0.5) ;
+}
+#box2 {
+    background-color:rgba(0,0,255,0.75) ;
+}
+#box3 {
+    background-color: rgba(0,0,255,1);
+}
+/* 
+#box2 {
+    display: none; 
+    visibility: hidden;
+} 
+/* button {
+    display: block;
+}  */
