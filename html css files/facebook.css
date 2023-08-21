@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    font-family: arial;
+    border: border-box;
+}
+.navbar {
+    height: 60px;
+    background-color: #4267b2;
+    display: flex;
+    align-items: center;
+}
+ .navlogo {
+    height: 50px;
+    width: 100px;
+}
+.logo {
+    background-image: url(facebook_logo.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+
+}
+button {
+    background-color: green;
+    color: white;
+}
+h6{
+   text-align: center;
+   font-size: 40px;
+   margin-top: 10px;
+}
+.fb {
+    text-align: center;
+    margin-top: 20px;
+}
+.b1 {
+    background-color:#4267b2 ;
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+}
+.p1 {
+    color: black;
+    text-align: center;   
+}
+.p2 {
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+    padding: 1% 1% 1% 1%;
+}
+.p3 {
+    color: darkcyan;
+}
+@media (max-width : 600px) {
+    body {
+        background-color: aqua;
+    }
+    
+}
